@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "THE GIFT",
+  "base_artist": "平井 大",
+  "createdAt": "2025-12-05T15:22:20.666840Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Caroline Spence",
+      "has_synced": true,
+      "path": "select/01_The_Gift_Caroline_Spence.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Mark Hollis",
+      "has_synced": true,
+      "path": "select/02_The_Gift_Mark_Hollis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C.O.N.F.O.R.M. (feat. The Gift of Gab, Lateef the Truth Speaker & Infamous Taz)",
+      "artist": "DJ Shadow feat. Gift Of Gab, Lateef The Truth Speaker & Infamous Taz",
+      "has_synced": false,
+      "path": "select/03_C.O.N.F.O.R.M._(feat._The_Gift_of_Gab,_Lateef_the_Truth_Speaker_&_Infamous_Taz)_DJ_Shadow_feat._Gift_Of_Gab,_Lateef_The_Truth_Speaker_&_Infamous_Taz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Way Out West",
+      "has_synced": false,
+      "path": "select/04_The_Gift_Way_Out_West.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/05_The_Gift_INXS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/06_The_Gift_INXS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Semisonic",
+      "has_synced": true,
+      "path": "select/07_The_Gift_Semisonic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "The Joy Formidable",
+      "has_synced": false,
+      "path": "select/08_The_Gift_The_Joy_Formidable.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Gift of Freedom",
+      "artist": "Charles Webster",
+      "has_synced": false,
+      "path": "select/09_The_Gift_of_Freedom_Charles_Webster.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Return the Gift",
+      "artist": "Gang of Four",
+      "has_synced": true,
+      "path": "select/10_Return_the_Gift_Gang_of_Four.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Gary Numan",
+      "has_synced": true,
+      "path": "select/11_The_Gift_Gary_Numan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Gift Of Tantalos",
+      "artist": "Virgin Steele",
+      "has_synced": false,
+      "path": "select/12_The_Gift_Of_Tantalos_Virgin_Steele.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Ayreon",
+      "has_synced": false,
+      "path": "select/13_The_Gift_Ayreon.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Grip Inc.",
+      "has_synced": false,
+      "path": "select/14_The_Gift_Grip_Inc..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Gift of Music",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/15_The_Gift_of_Music_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Gift",
+      "artist": "Angels & Airwaves",
+      "has_synced": true,
+      "path": "select/16_The_Gift_Angels_&_Airwaves.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE GIFT",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_THE_GIFT_平井大.txt"
+    }
+  ]
+}
